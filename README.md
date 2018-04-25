@@ -1,13 +1,14 @@
 # URL-SCANNER
 ## Modul
 
-requests
-androidhelper
-os
+#requests
+#androidhelper
+#os
 
-pip install requests
-pip install androidhelper
-pip install os
+## Installation
+# pip install requests
+# pip install androidhelper
+# pip install os
 
 
 
