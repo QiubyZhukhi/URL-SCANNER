@@ -20,3 +20,5 @@ pip install os
 
 #BETA SCRIPT PYTHON 2.7
 
+## Qiuby Zhukhi
+
